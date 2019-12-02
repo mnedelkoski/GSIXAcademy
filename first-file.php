@@ -1,3 +1,3 @@
 <?php
 
-echo 'Zdravo, jas sum Martin';
+echo 'Zdravo, jas sum Boban';
